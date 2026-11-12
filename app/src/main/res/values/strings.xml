@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VolumeWake</string>
+    <string name="accessibility_service_name">VolumeWake button service</string>
+    <string name="accessibility_service_description">Wakes the screen after a volume button press when the device firmware delivers that button to this service.</string>
+    <string name="enable_volume_wake">Enable Volume Wake</string>
+    <string name="open_accessibility_settings">Open Accessibility settings</string>
+</resources>
