@@ -16,7 +16,8 @@ Other devices are untested. Screen-off volume routing is firmware-dependent; see
 
 ## Install (no adb needed)
 
-1. Download `VolumeWake-v1.2.apk` from the [Releases](../../releases) page.
+1. Download `VolumeWake-v1.2.apk` from the
+   [Releases](https://github.com/ismailmo9090-del/volume-wake/releases) page.
 2. Open it on the phone and allow **Install unknown apps** for your browser/file manager when asked.
 3. Open **VolumeWake** and turn on **Enable Volume Wake**.
 4. The app opens Android Accessibility settings. Enable **VolumeWake button service**
